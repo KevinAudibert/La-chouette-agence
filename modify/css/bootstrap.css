@@ -488,7 +488,7 @@ small{font-size:85%}
 mark{padding:.2em;background-color:#fcf8e3}
 .text-left{text-align:left}
 .text-right{text-align:right}
-.text-center{text-align:center}
+.text-center{text-align:center;color:#333333!important}
 .text-justify{text-align:justify}
 .text-nowrap{white-space:nowrap}
 .text-lowercase{text-transform:lowercase}
